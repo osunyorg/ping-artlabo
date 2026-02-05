@@ -1,6 +1,13 @@
 ---
 title: Menu principal
 items:
+- title: Personnes
+  target: "/personnes/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
 - title: Projets
   target: "/projets/"
   kind: page
@@ -43,13 +50,6 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Personnes
-  target: "/personnes/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
 - title: TES
   target: "/tes/"
   kind: page
