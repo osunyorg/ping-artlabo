@@ -1,13 +1,13 @@
 ---
 title: Menu principal
 items:
-- title: Projets
-  target: "/projets/"
+- title: Expositions
+  target: "/expositions/"
   kind: page
   new_tab: false
   children: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
+  path: "/exhibitions"
+  file: content/fr/exhibitions/_index.html
 - title: Organisations
   target: "/organisations/"
   kind: page
@@ -43,13 +43,13 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Expositions
-  target: "/expositions/"
+- title: Projets
+  target: "/projets/"
   kind: page
   new_tab: false
   children: []
-  path: "/exhibitions"
-  file: content/fr/exhibitions/_index.html
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: TES
   target: "/tes/"
   kind: page
